@@ -1,0 +1,36 @@
+{
+  "name": "sails-hook-blueprint-utils",
+  "version": "1.0.0",
+  "description": "Adds utility methods to Sails API blueprints",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sercanov/sails-hook-blueprint-utils.git"
+  },
+  "dependencies": {
+    "lodash": "3.10.1",
+    "pluralize": "1.2.1",
+    "merge-defaults": "0.2.1"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "author": "Sercan Demircan",
+  "license": "MIT",
+  "keywords": [
+    "sails",
+    "blueprint",
+    "hook",
+    "utils",
+    "schema",
+    "model",
+    "count",
+    "associations",
+    "relations"
+  ],
+  "bugs": {
+    "url": "https://github.com/sercanov/sails-hook-blueprint-utils/issues"
+  },
+  "homepage": "https://github.com/sercanov/sails-hook-blueprint-utils"
+}
