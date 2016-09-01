@@ -1,5 +1,7 @@
 # sails-hook-blueprint-utils
 
+[![npm version](https://badge.fury.io/js/sails-hook-blueprint-utils.svg)](https://badge.fury.io/js/sails-hook-blueprint-utils)
+
 Adds utility methods to Sails API blueprints. 
 
 ## Installation
