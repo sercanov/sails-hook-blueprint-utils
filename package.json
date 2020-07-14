@@ -9,7 +9,7 @@
     "url": "https://github.com/sercanov/sails-hook-blueprint-utils.git"
   },
   "dependencies": {
-    "lodash": "3.10.1",
+    "lodash": "4.17.19",
     "pluralize": "1.2.1",
     "merge-defaults": "0.2.1"
   },
